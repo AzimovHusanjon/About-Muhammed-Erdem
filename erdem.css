@@ -1,0 +1,219 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.tana {
+  height: 650px;
+  background: linear-gradient(
+    to bottom right,
+    rgb(55, 0, 255),
+    rgb(255, 0, 234)
+  );
+  text-align: center;
+  font-family: Arial, sans-serif;
+
+}
+
+.foto {
+  height: 150px;
+  width: 140px;
+  border-radius: 50%;
+  top: 50px;
+  position: relative;
+  box-shadow: 1px 1px 20px 10px rgb(15, 71, 224);
+}
+
+.lokatsiya,
+.heading4b {
+  color: black;
+}
+
+.heading4 {
+  color: rgb(43, 42, 42);
+}
+
+.profile {
+  background-color: rgb(231, 226, 226);
+  display: inline-block;
+  width: 500px;
+  border-radius: 10px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.head21 {
+  color: rgb(98, 0, 255);
+}
+#rasm {
+  height: 25px;
+  width: 25px;
+}
+
+.divis {
+  display: inline-block;
+  padding: 13px;
+}
+
+.fa-facebook {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  border-radius: 50%;
+  box-shadow: 0 0 15px rgb(103, 103, 235);
+  background: linear-gradient(
+    to top left,
+    rgb(255, 136, 0),
+    rgb(0, 255, 64)
+  );
+  font-size: 35px;
+  padding: 7px;
+}
+
+.fa-twitter {
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 0 0 15px rgb(103, 103, 235);
+    background: linear-gradient(
+      to top left,
+      rgb(58, 7, 241),
+      rgb(0, 255, 55)
+    );
+    font-size: 35px;
+    padding: 7px;
+  }
+
+  .fa-instagram {
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 0 0 15px rgb(103, 103, 235);
+    background: linear-gradient(
+      to top left,
+      rgb(255, 0, 0),
+      rgb(0, 217, 255)
+    );
+    font-size: 35px;
+    padding: 7px;
+  }
+
+  .fa-behance {
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 0 0 15px rgb(103, 103, 235);
+    background: linear-gradient(
+      to top left,
+      rgb(255, 230, 0),
+      rgb(68, 0, 255)
+    );
+    font-size: 35px;
+    padding: 7px;
+  }
+
+  .fa-github {
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 0 0 15px rgb(103, 103, 235);
+    background: linear-gradient(
+      to top left,
+      rgb(43, 255, 0),
+      rgb(255, 0, 0)
+    );
+    font-size: 35px;
+    padding: 7px;
+  }
+
+
+
+.fa-solid {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  border-radius: 50%;
+  box-shadow: 0 0 15px rgb(103, 103, 235);
+  background: linear-gradient(
+    to top left,
+    rgb(0, 255, 0),
+    rgb(255, 0, 234)
+  );
+  font-size: 33px;
+  padding: 7px;
+  padding-left: 5px;
+  color: black;
+}
+
+.fa-solid:hover {
+    color: white;
+    cursor: pointer;
+    
+}
+.fa-github:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.fa-behance:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.fa-instagram:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.fa-twitter:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.fa-facebook:hover {
+    color: white;
+    cursor: pointer;
+}
+
+
+.icons {
+  display: inline-block;
+}
+
+.knopka1 {
+  display: inline-block;
+  width: 120px;
+  height: 30px;
+  margin-right: 50px;
+  background-color: rgb(24, 157, 197);
+  color: white;
+  border-radius: 20px;
+  font-family: Arial, sans-serif;
+  border: 0;
+}
+.knopka2 {
+  display: inline-block;
+  width: 120px;
+  height: 30px;
+  margin-left: 50px;
+  background-color: rgb(179, 39, 97);
+  color: white;
+  border-radius: 20px;
+  font-family: Arial, sans-serif;
+  border: 0;
+}
+
+.knopka1:hover {
+    color: black;
+    cursor: pointer;
+}
+
+.knopka2:hover {
+    color: black;
+    cursor: pointer;
+}
